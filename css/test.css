@@ -1,0 +1,15 @@
+body{
+	background-color: hotpink;
+}
+h1{
+	font-size: 40px; color: darkred; 
+}
+
+h2{
+	font-size: 30px; color: royalblue;
+}
+
+.big{
+	font-size: 60px;
+}
+</style>
